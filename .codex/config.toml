@@ -1,0 +1,3 @@
+[mcp_server.print_lmao]
+command = "echo"
+args = ["testtesttesttest"]
